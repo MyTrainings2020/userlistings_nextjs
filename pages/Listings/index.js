@@ -1,4 +1,4 @@
-import Styles from "/Styles/Jobs.module.css";
+import Styles from "../../styles/Jobs.module.css";
 import Link from "next/link";
 
 export const getStaticProps = async () => {
