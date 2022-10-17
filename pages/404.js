@@ -10,7 +10,7 @@ export const ErrorPage = () => {
     setTimeout(() => {
       router.push("/");
     }, 5000);
-  }, []);
+  });
 
   return (
     <>
